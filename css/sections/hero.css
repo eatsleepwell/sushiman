@@ -105,11 +105,9 @@
 }
 
 .hero-content__play-button img {
-  margin-right: 12px;
-
-  width: 46px;
-  height: 46px;
-
+  margin-right: 15px;
+  width: 50px;
+  height: 50px;
   object-fit: contain;
 }
 
@@ -147,13 +145,13 @@
   align-items: center;
   gap: 10px;
   padding-left: 20px;
-  border-left: 1px solid rgb(2, 2, 2, 0.1);
+  border-left: 3px solid rgb(2, 2, 2, 0.1);
   min-width: 200px;
 }
 
 .hero-content__review img {
-  width: 42px;
-  height: 42px;
+  width: 50px;
+  height: 50px;
   object-fit: contain;
 }
 
