@@ -42,6 +42,10 @@
   flex-direction: row;
 }
 
+.trending-drinks {
+  flex-wrap: wrap;
+}
+
 .trending__content {
   flex: 1;
   display: flex;
@@ -53,7 +57,6 @@
 
 .trending__list {
   list-style: none;
-
   flex-wrap: wrap;
   gap: 20px;
 }
